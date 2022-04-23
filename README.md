@@ -1,6 +1,6 @@
 # GriffinDetector
 
-![logo](C:\Users\HP\Downloads\GriffinDetector_Versions_0\logo.png)
+![logo](https://github.com/zhouyanli11/GriffinDetector/logo.png)
 
 The main purpose of this program is to detect candidate fusion genes from annotated genomes. The fusion genes here are especially means the fusion genes that combined from two parental genes.
 
@@ -17,11 +17,13 @@ This pipeline passed the test based on the CentOS Linux release 6.0, Perl versio
 3. The gff3 file for the relative species (the modification may be required)
 4. The outgroup species and focus species should explicit
 
+[TestData]: http://bioinfor.kib.ac.cn/sites/default/files/field/TestData.zip
+
 
 
 ## Flowchart
 
-![flowchart](C:\Users\HP\Downloads\GriffinDetector_Versions_0\flowchart.jpg)
+![flowchart](https://github.com/zhouyanli11/GriffinDetector/flowchart.jpg)
 
 ## The advantages of the pipeline
 
